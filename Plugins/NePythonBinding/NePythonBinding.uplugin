@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NewEdenPythonBinding",
+	"Description": "",
+	"Category": "Scripting Languages",
+	"CreatedBy": "twxn3571@corp.netease.com",
+	"CreatedByURL": "https://gitlab.nie.netease.com/twxn3571/nepy",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"EnabledByDefault": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NePythonBinding",
+			"Type": "RunTime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "NePythonConsole",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
+		}
+	],
+	"Plugins": [
+	]
+}

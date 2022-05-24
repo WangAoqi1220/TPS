@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"NePythonBinding": "UE4Editor-NePythonBinding.dll",
+		"NePythonConsole": "UE4Editor-NePythonConsole.dll"
+	}
+}
